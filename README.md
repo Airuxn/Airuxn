@@ -25,7 +25,3 @@ Ex-HVAC field tech turned software engineer. I build AI products, robotics tools
 - [GitHub](https://github.com/Airuxn)
 - [LinkedIn](https://www.linkedin.com/in/michaelvehash?)
 - [Portfolio / website](https://airux.tech)
-
-## Contact
-
-Open to collaborations on AI, robotics, and automation. Reach me on LinkedIn or create an issue in any of my repositories.
