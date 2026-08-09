@@ -4,8 +4,6 @@ Hi, I'm Michaël VH — I build AI products, robotics tools, and automation syst
 
 Everything I know is self-taught — from tinkering with the early internet as a kid, to building CS 1.6 maps as a teenager, to running my own crypto project, ultimately leading me into a career switch to software engineering and robotics.
 
-...
-
 Flipped careers in 2025: HVAC field tech → software & robotics engineer full-time. Turns out the curiosity for tech never left — I just changed the toolbox. ✌️
 
 Most work is private (company/client).  
