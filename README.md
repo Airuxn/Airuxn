@@ -6,8 +6,8 @@ Private by default (company software), public when i feel like.
 
 Everything i know and do is self-education. Public projects may be used for education, not for sale!
 
-Why did i switch my carreer?
-- "I can work with my hands, if i learn programming now, i could build anything i want later!"
+My mindset behind my carreer switch?
+- "I can work with my hands, i did mechanics, welding, electrics, plumbing, masonery, etc.. If i learn programming now, i could build anything i want later!"
 
 Based in Belgium.
 
