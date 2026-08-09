@@ -6,12 +6,12 @@ Everything I know about engineering is self-taught — from tinkering with the e
 
 Flipped careers in 2025: HVAC field tech → software & robotics engineer full-time. Turns out the curiosity for tech never left — I just changed the toolbox.
 
-Most work is private (company/client).  
+Most work is private (company/client).
 Public projects are for educational use; for commercial use, please reach out first.
 
- "I can work with my hands — if I learn programming properly, I can build anything." ✌️
+"I can work with my hands — if I learn programming properly, I can build anything." ✌️
  
- Based in Belgium.
+Based in Belgium.
 
 ---
 
@@ -29,7 +29,7 @@ Public projects are for educational use; for commercial use, please reach out fi
 
 - **Languages:** Kotlin, Python, TypeScript, C++, Shell
 - **Domains:** Android / Jetpack Compose, on-device LLMs, robotics / ROS2, FastAPI, Next.js, automation
-- **Tools:** GitHub Actions, CodeQL, Dependabot, Vercel, Gradle, Supabase, Ingest
+- **Tools:** GitHub Actions, CodeQL, Dependabot, Gradle, Vercel, Supabase, Inngest
 
 ## Links
 
