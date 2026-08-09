@@ -6,6 +6,9 @@ Private by default (company software), public when i feel like.
 
 Everything i know and do is self-education. Public projects may be used for education, not for sale!
 
+Why did i switch my carreer?
+- "I can work with my hands, if i learn programming now, i could build anything i want later!"
+
 Based in Belgium.
 
 ---
