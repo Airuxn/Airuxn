@@ -1,6 +1,6 @@
-# Hi, I'm Michaël VH (Airuxn)
+# Ex-HVAC field tech turned software engineer.
 
-Ex-HVAC field tech turned software engineer. I build AI products, robotics tools, and automation systems. Private by default. Based in Belgium.
+Hi, i"m Michaël VH (Airux). I'm a vibe coder, i build AI products, robotics tools, and automation systems. Private by default (company software), public projects when i feel like. Based in Belgium.
 
 ---
 
