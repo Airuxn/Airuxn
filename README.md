@@ -9,7 +9,7 @@ Everything i know and do is self-education. Public projects may be used for educ
 My mindset behind my carreer switch?
 - "I can work with my hands, i did mechanics, welding, electrics, HVAC, plumbing, masonery, etc.. If i learn programming now, i could build anything i want later!"
 
-Flipped carreer in 2025 with 0% experience in coding, follow my progress! ✌️
+Flipped carreer in 2025 with 0% experience in coding, follow my progress. ✌️
 
 Based in Belgium.
 
