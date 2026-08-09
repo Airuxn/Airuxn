@@ -24,7 +24,7 @@ Based in Belgium.
 
 - **Languages:** Kotlin, Python, TypeScript, C++, Shell
 - **Domains:** Android / Jetpack Compose, on-device LLMs, robotics / ROS2, FastAPI, Next.js, automation
-- **Tools:** GitHub Actions, CodeQL, Dependabot, Vercel, Gradle
+- **Tools:** GitHub Actions, CodeQL, Dependabot, Vercel, Gradle, Supabase, Ingest
 
 ## Links
 
