@@ -1,6 +1,6 @@
-# Ex-HVAC field tech turned software engineer.
+# Ex-HVAC field tech turned into software engineer.
 
-Hi, i"m Michaël VH (Airux). I'm a vibe coder, i build AI products, robotics tools, and automation systems. Private by default (company software), public projects when i feel like. Based in Belgium.
+Hi, i"m Michaël VH (Airux). I'm a vibe coder, i build AI products, robotics tools, and automation systems. Private by default (company software), public projects when i feel like. Everything i know and do is self-education. Based in Belgium.
 
 ---
 
