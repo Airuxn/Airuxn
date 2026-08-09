@@ -1,18 +1,17 @@
-# Ex-HVAC field tech turned into software/robotics engineer.
+# From HVAC field tech to software/robotics engineer
 
-Hi, i'm Michaël VH (Airux). I'm a vibe coder, i build AI products, robotics tools, and automation systems.
+Hi, I'm Michaël VH — I build AI products, robotics tools, and automation systems.
 
-Private by default (company software), public when i feel like.
+Everything I know is self-taught — from tinkering with the early internet as a kid, to building CS 1.6 maps as a teenager, to running my own crypto project, ultimately leading me into a career switch to software engineering and robotics.
 
-Everything i know and do is self-education. Public projects may be used for educational purposes, not for sale!
+...
 
-My mindset behind my carreer switch?
-- "I can work with my hands, i did mechanics, welding, electrics, HVAC, plumbing, masonery, etc.. If i learn programming now, i could build anything i want later!"
+Flipped careers in 2025: HVAC field tech → software & robotics engineer full-time. Turns out the curiosity for tech never left — I just changed the toolbox. ✌️
 
-Flipped carreer in 2025 with 0% experience in coding, follow my progress. ✌️
+Most work is private (company/client).  
+Public projects are for educational use; for commercial use, please reach out first.
 
 Based in Belgium.
-
 
 ---
 
