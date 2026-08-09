@@ -4,7 +4,7 @@ Hi, i'm Michaël VH (Airux). I'm a vibe coder, i build AI products, robotics too
 
 Private by default (company software), public when i feel like.
 
-Everything i know and do is self-education. Public projects may be used for education, not for sale!
+Everything i know and do is self-education. Public projects may be used for educational purposes, not for sale!
 
 My mindset behind my carreer switch?
 - "I can work with my hands, i did mechanics, welding, electrics, HVAC, plumbing, masonery, etc.. If i learn programming now, i could build anything i want later!"
