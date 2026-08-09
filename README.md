@@ -10,7 +10,8 @@ Most work is private (company/client).
 Public projects are for educational use; for commercial use, please reach out first.
 
  "I can work with my hands — if I learn programming properly, I can build anything." ✌️
-Based in Belgium.
+ 
+ Based in Belgium.
 
 ---
 
