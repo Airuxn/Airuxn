@@ -35,4 +35,4 @@ Based in Belgium.
 
 - [GitHub](https://github.com/Airuxn)
 - [LinkedIn](https://www.linkedin.com/in/michaelvehash)
-- [X/Twitter](https://x.com/Airux22)
+- [X / Twitter](https://x.com/Airux22)
