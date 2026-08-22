@@ -18,7 +18,8 @@ Based in Belgium.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AutoGTM] | Private repo - Production-ready AI websearch B2B go-to-market platform | TypeScript, CSS, JavaScript |
+| [AutoGTM] | Private repo - Production-ready B2B go-to-market platform - AI lead websearch | TypeScript, CSS, JavaScript |
+| [PocketAI](https://github.com/Airuxn/PocketAI) | Connect your Android phone to Cursor Cloud Agents via MCP, Tailscale and SOCKS5 | Shell, JavaScript, Python |
 | [PhoneConnect](https://github.com/Airuxn/PhoneConnect) | Connect your Android phone to Cursor Cloud Agents via MCP, Tailscale and SOCKS5 | Shell, JavaScript, Python |
 | [unitree-robot-control-suite](https://github.com/Airuxn/unitree-robot-control-suite) | GTK3 control interface for Unitree G1 and GO2W robots | Python, ROS2, GTK3 |
 | [scrape-portal](https://github.com/Airuxn/scrape-portal) | Public web scraper with robots.txt respect, SSRF protection and JSON export | Python, FastAPI |
