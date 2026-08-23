@@ -7,9 +7,7 @@ Everything I know about engineering is self-taught — from tinkering with the e
 Flipped careers in 2025: HVAC field tech → software & robotics engineer full-time. Turns out the curiosity for tech never left — I just changed the toolbox.
 
 Most work is private (company/client).
-Public projects are for educational use; for commercial use, please reach out first.
-
-"I can work with my hands — if I learn programming properly, I can build anything."
+Public projects are for educational use only.
  
 Based in Belgium.
 
