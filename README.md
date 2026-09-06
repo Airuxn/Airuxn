@@ -2,7 +2,7 @@
 
 Hi, I'm Michaël VH — I build AI products, robotics tools, and automation systems.
 
-Everything I know about engineering is self-taught — from tinkering with the early internet as a kid, to building CS 1.6 maps as a teenager, to running my own crypto project, ultimately leading me into a career switch to software & robotics engineer.
+Everything I know about engineering is self-taught — from tinkering with the early internet as a kid, to building CS 1.6 maps as a teenager, to running my own web3 projects, ultimately leading me into a career switch to software & robotics engineer.
 
 Flipped careers in 2025: HVAC field tech → software & robotics engineer full-time. Turns out the curiosity for tech never left — I just changed the toolbox.
 
@@ -12,7 +12,7 @@ Public projects are for educational use only.
 Based in Belgium.
 
 ---
-## What I'm building
+## A share of my projects
 
 | Project | What it does | Stack |
 |---|---|---|
