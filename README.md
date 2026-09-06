@@ -29,8 +29,7 @@ Based in Belgium.
 - **Domains:** Android / Jetpack Compose, on-device LLMs, robotics / ROS2, FastAPI, Next.js, automation
 - **Tools:** GitHub Actions, CodeQL, Dependabot, Gradle, Vercel, Supabase, Inngest
 
-## Links
+## Socials
 
-- [GitHub](https://github.com/Airuxn)
 - [LinkedIn](https://www.linkedin.com/in/michaelvehash)
 - [X / Twitter](https://x.com/michael_vehash)
